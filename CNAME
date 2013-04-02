@@ -1,1 +1,5 @@
 daihuanrong.com
+$ dig www.daihuanrong.com +nostats +nocomments +nocmd
+;www.daihuanrong.com.                 IN      A
+www.daihuanrong.com.          3592    IN      CNAME   sparkleDai.github.com.
+sparkleDai.github.com.      43192   IN      A       204.232.175.78
